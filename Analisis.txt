@@ -1,0 +1,9 @@
+
+Nombre					Descripcion 									Razón para eliminar
+Punto de venta			lo que se va hacer
+Articulo				lo que se va registrar
+Usuario					quien va comprar sin generar factura
+Cliente					compra y puede generar factura
+Carrito de compras		donde se guardan los articulos
+Ticket					informe de compras con precios, desc, etc.      
+Factura					se genera a partir del ticket
